@@ -9,3 +9,5 @@ Lab 2 - Anomaly detection
 Lab 3 - State Machine and Streams
 
 Lab 4 - Adversarial machine learning
+
+The project was completed in a group of 2 students. 

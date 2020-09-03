@@ -1,6 +1,6 @@
 # CS4035-CyberDataAnaltyics
 
-This project contains codes for the following topics in cyber data analytics as part of the CS4035 course taught at TU Delft:
+This project covers the following topics in cyber data analytics as part of the CS4035 course taught at TU Delft:
 
 Lab 1 - Fraud detection
 
